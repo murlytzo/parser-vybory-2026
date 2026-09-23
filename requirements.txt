@@ -1,0 +1,5 @@
+undetected-chromedriver>=3.5
+selenium>=4.10
+gspread>=5.0
+google-auth>=2.0
+setuptools
