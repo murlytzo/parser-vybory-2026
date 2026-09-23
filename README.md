@@ -58,7 +58,7 @@
 Нажмите на GitHub зелёную кнопку **Code → Download ZIP** и распакуйте архив в любую папку. Или, если у вас есть git:
 
 ```bash
-git clone <ссылка на этот репозиторий>
+git clone https://github.com/murlytzo/parser-vybory-2026.git
 ```
 
 ### 2. Установите библиотеки
